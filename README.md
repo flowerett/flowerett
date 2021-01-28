@@ -15,12 +15,12 @@ Passionate about:
 - :octocat: contributing to Open Source
 
 ## Core Skills:
-### Programming languages
-![Elixir](https://img.shields.io/badge/elixir-4B275F?style=for-the-badge&logo=elixir)
-![Erlang](https://img.shields.io/badge/erlang-A90533?style=for-the-badge&logo=erlang)
-![Ruby](https://img.shields.io/badge/ruby-CC342D?style=for-the-badge&logo=ruby)
-![Python](https://img.shields.io/badge/-python-3776AB?style=for-the-badge&logo=python&logoColor=ffd343)
-![Javascript](https://img.shields.io/badge/-javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### Programming Languages
+[![Elixir](https://img.shields.io/badge/elixir-4B275F?style=for-the-badge&logo=elixir)](https://elixir-lang.org/)
+[![Erlang](https://img.shields.io/badge/erlang-A90533?style=for-the-badge&logo=erlang)](https://www.erlang.org/)
+[![Ruby](https://img.shields.io/badge/ruby-CC342D?style=for-the-badge&logo=ruby)](https://www.ruby-lang.org/)
+[![Python](https://img.shields.io/badge/-python-3776AB?style=for-the-badge&logo=python&logoColor=ffd343)](https://www.python.org/)
+[![Javascript](https://img.shields.io/badge/-javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/)
 
 
 ### Frameworks
@@ -29,14 +29,14 @@ Passionate about:
 [![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
 [![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)
 
-### Data Storage systems
+### Data Storage Systems
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
 [![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)](https://www.elastic.co/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
-### DevOps tools & technologies
+### DevOps Tools & Technologies
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 [![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
